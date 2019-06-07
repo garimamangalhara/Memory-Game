@@ -1,0 +1,118 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "posts": [
+    {
+      "name": "Srishti",
+      "postId": "P02",
+      "date": "2019-03-13",
+      "likes": 1560,
+      "views": 2789,
+      "tags": [
+        "heels",
+        "fashion",
+        "shoes"
+      ],
+      "imgSrc": "../assets/Surface1.png"
+    },
+    {
+      "name": "Rishika",
+      "postId": "P01",
+      "date": "2019-12-01",
+      "likes": 3000,
+      "views": 5000,
+      "tags": [
+        "shoes",
+        "fashion",
+        "shoesarein"
+      ],
+      "imgSrc": "../assets/Surface2.png"
+    },
+    {
+      "name": "Rishi",
+      "postId": "P03",
+      "date": "2018-04-13",
+      "likes": 5000,
+      "views": 6960,
+      "tags": [
+        "BlackShirt",
+        "MenInBlack",
+        "shoesarein"
+      ],
+      "imgSrc": "../assets/Surface3.png"
+    },
+    {
+      "name": "Rishi",
+      "postId": "P04",
+      "date": "2019-04-13",
+      "likes": 2345,
+      "views": 5000,
+      "tags": [
+        "heels",
+        "fashion",
+        "shoesarein"
+      ],
+      "imgSrc": "../assets/Surface4.png"
+    },
+    {
+      "name": "Rishi",
+      "postId": "P05",
+      "date": "2019-04-13",
+      "likes": 30000,
+      "views": 5000,
+      "tags": [
+        "shoes",
+        "fashion",
+        "shoesarein"
+      ],
+      "imgSrc": "../assets/Surface5.png"
+    },
+    {
+      "name": "Rishi",
+      "postId": "P06",
+      "date": "2019-04-13",
+      "likes": 3005,
+      "views": 5000,
+      "tags": [
+        "shoes",
+        "fashion",
+        "shoesarein"
+      ],
+      "imgSrc": "../assets/Surface6.png"
+    },
+    {
+      "name": "Rishi",
+      "postId": "P07",
+      "date": "2019-04-13",
+      "likes": 3900,
+      "views": 5000,
+      "tags": [
+        "shoes",
+        "fashion",
+        "shoesarein"
+      ],
+      "imgSrc": "../assets/Surface7.png"
+    },
+    {
+      "name": "Rishi",
+      "postId": "P08",
+      "date": "2019-04-13",
+      "likes": 7000,
+      "views": 5000,
+      "tags": [
+        "shoes",
+        "fashion",
+        "shoesarein"
+      ],
+      "imgSrc": "../assets/Surface.png"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<div class="row rowCustom">
+  <div class="col-md-2 block" *ngFor="let block of blockList" (click)="onClickCircle(block)">
+    <!-- {{block.index}} -->
+    <div *ngIf="block.circleFlag" class="dot" [hidden]="hideAll"></div>
+  </div>
+</div>
+<!-- <div class="scoreBoard">
+  <div>Level:{{stage}}</div>
+  <div>Score:{{score}}</div>
+</div> -->
